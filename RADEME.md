@@ -1,4 +1,7 @@
 # flask项目(学生就业管理系统)
+###项目介绍
+一个使用Flask、MySQL、Redis等做的一个WEB项目
+
 项目目前想要达到的功能：登录，注册，验证码
 
 ## 计划表
@@ -15,10 +18,10 @@
 
 2020/10/19
 >找到合适的模板（后台）
-![模板样式](./images/muban.png)
-![模板样式](./images/muban2.png)
+![模板样式](accets/muban.png)
+![模板样式](accets/muban2.png)
 >项目初步规划
-![项目初步规划](./images/初步规划.png)
+![项目初步规划](accets/初步规划.png)
 
 
 
