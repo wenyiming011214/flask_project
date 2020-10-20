@@ -18,10 +18,10 @@
 
 2020/10/19
 >找到合适的模板（后台）
-![模板样式](accets/muban.png)
-![模板样式](accets/muban2.png)
+![模板样式](./accets/muban.png)
+![模板样式](./accets/muban2.png)
 >项目初步规划
-![项目初步规划](accets/初步规划.png)
+![项目初步规划](./accets/初步规划.png)
 
 
 
